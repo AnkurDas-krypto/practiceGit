@@ -9,3 +9,5 @@ print("comments to get badge")
 
 print("code from dev1")
 print("code from dev2 and new comment added")
+
+print("dev 3 changes")
